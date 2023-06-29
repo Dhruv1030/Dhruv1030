@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruv1030
 - 👀 I’m interested in Front End 
-- 🌱 I’m currently learning basics of HTML,CSS,JS
+- 🌱 I’m currently learning basics of HTML,CSS,Java script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 📧dp14798@gmail.com
 
