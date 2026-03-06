@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Dhruv%20Patel&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20the%20Future&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Dhruv%20Patel&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Building%20the%20Future&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 </div>
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+TypeScript+%7C+Next.js;Node.js+%7C+Express+%7C+REST+APIs;Full+Stack+Developer+%26+Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Java+%7C+Spring+Boot+%7C+Microservices;React+%7C+TypeScript+%7C+Next.js;AWS+%7C+Azure+%7C+GCP+%7C+Cloud+Native;AI+%7C+LangChain+%7C+RAG+%7C+LangGraph;Full+Stack+Developer+%26+Problem+Solver" alt="Typing SVG" /></a>
 </div>
 
 <br/>
@@ -26,6 +26,8 @@ const dhruv = {
             java: ["Spring Boot", "Microservices"],
             js: ["Node.js", "Express"]
         },
+        cloud: ["AWS", "Azure", "GCP"],
+        ai: ["LangChain", "LangGraph", "RAG", "Claude", "GitHub Copilot"],
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
         tools: ["Git", "Docker", "Vercel", "Postman"]
     },
@@ -57,6 +59,25 @@ const dhruv = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**☁️ Cloud Services**
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+
+**🤖 AI & ML Services**
+
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/🔗_LangGraph-2D2D2D?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=semanticscholar&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Tools & Platforms**
 
